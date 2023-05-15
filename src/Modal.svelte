@@ -22,7 +22,7 @@
 .modal {
     background: white;
     max-width: 400px;
-    margin: auto;
+    margin: 200px auto;
     padding: 10px;
     text-align: center;
     border-radius: 10px;
